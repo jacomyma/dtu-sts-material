@@ -1,9 +1,13 @@
+# How to use the notebooks
+
 The Python notebooks come in two versions because you have two options.
 
 1. Run notebooks online with Google Colab. Open the [```notebook/colab/```](https://github.com/jacomyma/dtu-sts-material/tree/main/notebooks/colab) folder, click on a notebook in the list, then click on "Open in Colab" on top. This will create a copy of the notebook in your Google Drive and open it in Colab (see intro above). This will require you to authorize each script to access your Google account so that it can access the online version of the document.
 1. Run notebooks locally with Jupyter (or another compatible system like VS Code). We recommend that you download, install, and run [Anaconda Navigator](https://www.anaconda.com/download/success) and from there to run Jupyter. You can then run the notebooks from the GitHub repository in the [```notebook/local/```](https://github.com/jacomyma/dtu-sts-material/tree/main/notebooks/local) folder. Those do not require any Google account, but you have to set up the notebook environment and download the notebooks and the data.
 
 Note: the repository also contains the dataset as a CSV in the data/ folder.
+
+# Notebook description
 
 Here is a quick description of what each notebook does and how you should use it:
 
